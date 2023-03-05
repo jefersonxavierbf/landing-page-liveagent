@@ -1,6 +1,6 @@
 Clique para [ver ao vivo](https://clone-live-agent.netlify.app/).
 
-# CLONE SITE PICPAY
+# LANDING PAGE LIVEAGENT
 STATUS: EM DESENVOLVIMENTO
 
 ## Topicos
